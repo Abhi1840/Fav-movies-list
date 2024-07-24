@@ -32,11 +32,11 @@
 <a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</a>
 
 <a href="https://www.hotstar.com/in/shows/how-i-met-your-mother/8323">
-<img src="https://images4.fanpop.com/image/photos/23900000/How-I-Met-Your-Mother-how-i-met-your-mother-23910966-1600-1200.jpg "width="450" height="300">
+<img src="https://images4.fanpop.com/image/photos/23900000/How-I-Met-Your-Mother-how-i-met-your-mother-23910966-1600-1200.jpg"width="450" height="300">
 <a href="https://www.hotstar.com/in/shows/how-i-met-your-mother/8323">How I Met Your Mother</a>
 
 <a href="https://www.netflix.com/search?q=cobra&jbv=81002370">
-<img src="https://m.media-amazon.com/images/I/91skTpY31mL._SL1500_.jpg" width="450" height="300">
+<img src="https://m.media-amazon.com/images/I/91skTpY31mL._SL1500_.jpg" width="350" height="425">
 <a href="https://www.netflix.com/search?q=cobra%20kai&jbv=81002370"> Cobra Kai</a>
 
 <hr/>
