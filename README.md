@@ -4,7 +4,8 @@
 <a href="https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness"><img src="https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg" width="375" height="425">
 <a href="https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness" >The Pursuit of Happyness</a>
 
-<a href="https://www.hotstar.com/in/movies/titanic/1770001166"><img src="https://c8.alamy.com/comp/PXNB80/titanic-original-movie-poster-PXNB80.jpg " width="300" height="425">
+<a href="https://www.hotstar.com/in/movies/titanic/1770001166">
+<img src="https://c8.alamy.com/comp/PXNB80/titanic-original-movie-poster-PXNB80.jpg "width="325" height="425">
 <a href="https://www.hotstar.com/in/movies/titanic/1770001166">Titanic</a>
 
 <a href="https://www.hotstar.com/in/movies/iron-man/1660000038"><img src="https://images.affiches-et-posters.com/albums/3/55309/poster-film-iron-man-1.jpg" width="300" height="475">
