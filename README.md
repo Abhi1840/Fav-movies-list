@@ -5,13 +5,14 @@
 <a href="https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness" >The Pursuit of Happyness</a>
 
 <a href="https://www.hotstar.com/in/movies/titanic/1770001166">
-<img src="https://c8.alamy.com/comp/PXNB80/titanic-original-movie-poster-PXNB80.jpg "width="325" height="425">
+<img src="https://www.themoviedb.org/t/p/original/vpsvHLkoeKUjceIMeNSqCp3xEyY.jpg "width="325" height="425">
 <a href="https://www.hotstar.com/in/movies/titanic/1770001166">Titanic</a>
 
 <a href="https://www.hotstar.com/in/movies/iron-man/1660000038"><img src="https://images.affiches-et-posters.com/albums/3/55309/poster-film-iron-man-1.jpg" width="300" height="475">
 <a href="https://www.hotstar.com/in/movies/iron-man/1660000038">Iron Man</a>
 
-<a href="https://www.primevideo.com/dp/amzn1.dv.gti.06bbea93-3c9e-d08c-95b4-fe4d450f5816?autoplay=0&ref_=atv_cf_strg_wb"><img src="https://www.themoviedb.org/t/p/original/DUjo2ZxSQcrGmqy4aWXjDlfI21.jpg  " width="375" height="450">
+<a href="https://www.primevideo.com/dp/amzn1.dv.gti.06bbea93-3c9e-d08c-95b4-fe4d450f5816?autoplay=0&ref_=atv_cf_strg_wb">
+<img src="https://www.themoviedb.org/t/p/original/DUjo2ZxSQcrGmqy4aWXjDlfI21.jpg  " width="375" height="450">
 <a href="https://www.primevideo.com/dp/amzn1.dv.gti.06bbea93-3c9e-d08c-95b4-fe4d450f5816?autoplay=0&ref_=atv_cf_strg_wb">Life In A Year</a>
 <hr/>
 
