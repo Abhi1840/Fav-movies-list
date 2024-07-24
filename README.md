@@ -36,7 +36,7 @@
 <a href="https://www.hotstar.com/in/shows/how-i-met-your-mother/8323">How I Met Your Mother</a>
 
 <a href="https://www.netflix.com/search?q=cobra&jbv=81002370">
-<img src="https://m.media-amazon.com/images/I/91skTpY31mL._SL1500_.jpg" width="350" height="425">
+<img src="https://m.media-amazon.com/images/I/91skTpY31mL._SL1500_.jpg" width="250" height="375">
 <a href="https://www.netflix.com/search?q=cobra%20kai&jbv=81002370"> Cobra Kai</a>
 
 <hr/>
